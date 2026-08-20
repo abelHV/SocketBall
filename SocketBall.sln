@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketBall", "SocketBall\SocketBall.csproj", "{1CAAAB47-FB1A-49A1-BDA8-871B6002EB0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CAAAB47-FB1A-49A1-BDA8-871B6002EB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAAAB47-FB1A-49A1-BDA8-871B6002EB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAAAB47-FB1A-49A1-BDA8-871B6002EB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAAAB47-FB1A-49A1-BDA8-871B6002EB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6785898-61CF-46E7-9A57-CAB5DC80275F}
+	EndGlobalSection
+EndGlobal

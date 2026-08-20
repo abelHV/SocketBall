@@ -1,0 +1,10 @@
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\SocketBall\SocketBall\bin\Debug\SocketBall.exe.config
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\SocketBall\SocketBall\bin\Debug\SocketBall.exe
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\SocketBall\SocketBall\bin\Debug\SocketBall.pdb
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\SocketBall\SocketBall\obj\Debug\SocketBall.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\SocketBall\SocketBall\obj\Debug\SocketBall.FrmMain.resources
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\SocketBall\SocketBall\obj\Debug\SocketBall.Properties.Resources.resources
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\SocketBall\SocketBall\obj\Debug\SocketBall.csproj.GenerateResource.cache
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\SocketBall\SocketBall\obj\Debug\SocketBall.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\SocketBall\SocketBall\obj\Debug\SocketBall.exe
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\SocketBall\SocketBall\obj\Debug\SocketBall.pdb
